@@ -1,9 +1,14 @@
 body
 {
-  background-color: rgb(1,45,91)
-  color: rgb(254,189,54) 
+  background-color: rgb(1,45,91);
+  color: rgb(254,189,54) ;
+  font-family: open-serif;
 }
 a
 {
-  color: rgb(254,189,54)
+  color: rgb(254,189,54);
+}
+heading
+{
+  font-family: "Arvo"
 }
