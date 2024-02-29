@@ -1,10 +1,9 @@
-:root
-{
-  --uncblue:rgb(1,45,91)
-  --uncgold:rgb(254,189,54)
-}
 body
 {
-background-color:var(uncblue)
-  color:var(uncgold)
+background-color: rgb(1,45,91)
+  color:rgb(254,189,54)
+}
+a
+{
+color:rgb(254,189,54)
 }
