@@ -2,9 +2,6 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Assistant:wght@200..800&display=swap" rel="stylesheet">
     </head>
     <body>
 
@@ -20,7 +17,7 @@ a
 }
 h1
 {
-  font-family: Assistant;
+  font-family:"Times New Roman", Times, serif;
   color: rgb(154, 122, 160);
 }
 img
@@ -28,5 +25,6 @@ img
 border-radius: 8px;
 border-style: outset;
 }
+
     </body>
 </html>
