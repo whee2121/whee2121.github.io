@@ -4,12 +4,6 @@
         <meta charset="UTF-8">
     </head>
     <body>
-p
-{
- color: rgb(20, 20, 20);
-  font-family: Arial, Helvetica, sans-serif;
-    background-color: blue;   
-}
 a
 {
   color: rgb(99, 55, 169);
@@ -23,6 +17,12 @@ img
 {
 border-radius: 8px;
 border-style: outset;
+}
+p
+{
+ color: rgb(20, 20, 20);
+  font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;   
 }
 
     </body>
