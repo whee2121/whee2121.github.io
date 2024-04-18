@@ -4,12 +4,11 @@
         <meta charset="UTF-8">
     </head>
     <body>
-
 body
 {
-  color: rgb(20, 20, 20);
+ color: rgb(20, 20, 20);
   font-family: Arial, Helvetica, sans-serif;
-    background-color: blue;
+    background-color: blue;   
 }
 a
 {
